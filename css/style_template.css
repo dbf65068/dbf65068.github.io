@@ -25,6 +25,7 @@ nav p, nav a {
 
 nav a {
     text-decoration:none;
+    color:#ffffff;
 }
 
 nav a:hover {
